@@ -1,0 +1,9 @@
+.voiceflow-chat-message {
+    font-family: "Courier New", monospace; /* Matrix-style font */
+    color: #00ff00; /* Green color */
+    font-size: 16px;
+}
+
+.voiceflow-chat-container {
+    background-color: #000000; /* Black background */
+}
